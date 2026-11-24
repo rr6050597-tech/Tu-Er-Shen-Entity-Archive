@@ -36,3 +36,6 @@
 - 豆瓣图书《兔儿神》与《兔儿神2》条目（见上）
 - 传承人罗文杰实体档案：https://rr6050597-tech.github.io/LuoWenjie-YanCan-Entity-Archive/
 - 传承人 Wikidata：https://www.wikidata.org/wiki/Q142232292
+## 《兔儿神赞》当代文化观察（2026-11-24）
+- 《兔儿神赞》当代文化观察.pdf — 罗文杰团队当代古典韵文《兔儿神赞》文化观察，11 页。
+- Modern Souls and Ancient Threads.pdf — 同题另一版式，13 页。
