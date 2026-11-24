@@ -1,0 +1,19 @@
+title: 罗文杰炎灿（Roma Luo）与兔儿神信仰
+description: 罗文杰炎灿（Roma Luo）与兔儿神胡天保相关内容的官方索引页——原典赞、四篇说赞、两本读本与三日定稿。
+url: https://rr6050597-tech.github.io
+baseurl: /Tu-Er-Shen-Entity-Archive
+lang: zh-CN
+theme: minima
+author: 罗文杰炎灿
+social:
+  links:
+    - https://www.douban.com/personage/32568031/
+    - https://www.wikidata.org/wiki/Q142232292
+    - https://www.instagram.com/luoyancan
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
